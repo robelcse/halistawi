@@ -1,0 +1,62 @@
+{
+    "status": "success",
+    "status_code": 200,
+    "date": [
+        {
+            "testdevice_id": 2,
+            "name": "Iphone-2",
+            "model": "jsx-2",
+            "unique_no": "iphone-2",
+            "serial_no": "15",
+            "brand": "Apple",
+            "ppb_agent_id": 1,
+            "device_owner": "61c5a34b28650",
+            "type": "individual",
+            "cost_share_agreement": "cost share agreement",
+            "emergency_d_c_name": "Jhon doe",
+            "emergency_d_c_email": "jhondoe@gmail.com",
+            "emergency_d_c_phone": "01609887766",
+            "teststation_id": 1,
+            "created_at": "2021-12-24T10:41:58.000000Z",
+            "updated_at": "2021-12-24T10:41:58.000000Z",
+            "teststation": {
+                "teststation_id": 1,
+                "name": "Test Statio 1",
+                "unique_id": "2021-12-24-61c5a37eab6f6",
+                "type": "mobile",
+                "category": "test station category1",
+                "location": "test station location1",
+                "created_at": "2021-12-24T10:39:58.000000Z",
+                "updated_at": "2021-12-24T10:39:58.000000Z"
+            }
+        },
+        {
+            "testdevice_id": 1,
+            "name": "Iphone-1",
+            "model": "jsx-1",
+            "unique_no": "iphone-1",
+            "serial_no": "14",
+            "brand": "Apple",
+            "ppb_agent_id": 1,
+            "device_owner": "61c5a35993e2c",
+            "type": "company",
+            "cost_share_agreement": "cost share agreement",
+            "emergency_d_c_name": "Jhon doe",
+            "emergency_d_c_email": "jhondoe@gmail.com",
+            "emergency_d_c_phone": "01609887766",
+            "teststation_id": 1,
+            "created_at": "2021-12-24T10:41:07.000000Z",
+            "updated_at": "2021-12-24T10:41:07.000000Z",
+            "teststation": {
+                "teststation_id": 1,
+                "name": "Test Statio 1",
+                "unique_id": "2021-12-24-61c5a37eab6f6",
+                "type": "mobile",
+                "category": "test station category1",
+                "location": "test station location1",
+                "created_at": "2021-12-24T10:39:58.000000Z",
+                "updated_at": "2021-12-24T10:39:58.000000Z"
+            }
+        }
+    ]
+}

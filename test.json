@@ -1,0 +1,24 @@
+{
+    "status": "success",
+    "status_code": 400,
+    "id": 1,
+    "full_name": null,
+    "photo": null,
+    "records": [
+        {
+            "record_id": 3,
+            "medicine": "[{\"type\":\"cap\",\"dos\":3,\"days\":5,\"note\":\"after meal\"},{\"type\":\"tab\",\"dos\":2,\"days\":6,\"note\":\"before meal\"}]",
+            "notes": "this is the note of doctor"
+        },
+        {
+            "record_id": 4,
+            "medicine": "[{\"type\":\"cap\",\"dos\":3,\"days\":5,\"note\":\"after meal\"},{\"type\":\"tab\",\"dos\":2,\"days\":6,\"note\":\"before meal\"}]",
+            "notes": "this is the note of doctor"
+        },
+        {
+            "record_id": 5,
+            "medicine": "[{\"type\":\"cap\",\"dos\":1,\"days\":5,\"note\":\"after meal...\"},{\"type\":\"tab\",\"dos\":2,\"days\":6,\"note\":\"before meal\"}]",
+            "notes": "this is the note of doctor"
+        }
+    ]
+}

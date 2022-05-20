@@ -1,0 +1,45 @@
+
+#toggle-owner {
+
+    display: none;
+}
+
+
+/* #company_and_individual{
+
+  display: none;
+} */
+
+#company_info{
+
+     display: none;
+}
+#individual_info{
+
+     display: none;
+}
+.tab {
+  display: none;
+}
+.step {
+  height: 15px;
+  width: 25px;
+  margin: 0 2px;
+  background-color: #f1f1f1;
+  border: none;  
+  border-radius: 25px;
+  display: inline-block;
+}
+.step.active {
+  background-color: rgba(0, 0, 0, 0.605)!important;
+}
+.step.finish {
+  background-color: #23c4f4!important;
+}
+#mainnav .nav-link.actitve{
+  background-color: #23c4f4!important;
+  color: #fff!important;
+}
+input.invalid{
+  border: 1px solid red!important;
+}

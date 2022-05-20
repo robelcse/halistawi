@@ -1,0 +1,124 @@
+*{
+    padding: 0;
+    margin: 0;
+    outline: 0;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+h1,h2,h3,h4,h5,h6{
+    padding: 0;
+    margin: 0;
+}
+
+/* nayan css start */
+
+.login_section{
+    height: 100%;
+}
+.login_frm_wrap{
+    border-radius: 7px;
+    min-height: 100vh;
+}
+.login_side_img{
+    text-align: center;
+}
+.login_side_img img{
+    width: 60%;
+    margin-top: 70px;
+}
+.regis_side_img img{
+    width: 70%!important;
+}
+.login_main_frm{
+    margin-top: 100px;
+}
+.regis_main_frm{
+    margin-top: 10px!important;
+}
+.regis_main_frm img{
+    width: 150px;
+    text-align: center;
+}
+.login_main_frm h3{
+    font-size: 30px;
+    line-height: 42px;
+    font-weight: 600;
+    color: #0d0d0d;
+    margin-bottom: 7px;
+}
+.login_main_frm p{
+    font-size: 17px;
+    line-height: 24px;
+    font-weight: 400;
+    color: rgba(13, 13, 13, 0.514);
+}
+.login_main_frm{
+    width: 60%;
+    margin-top: 120px;
+}
+.login_main_frm label{
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 500;
+    color: rgba(13, 13, 13, 0.664);
+}
+.login_main_frm .form-control:focus-within{
+    box-shadow: none;
+}
+.login_main_frm .form-control{
+    border-radius: 3px;
+    font-size: 15px;
+    line-height: 22px;
+    font-weight: 400;
+    color: #0d0d0d;
+    height: 50px;
+}
+.login_main_frm .form-group{
+    margin-top: 20px;
+}
+.login_main_frm .btn_submit{
+    padding: 10px 50px;
+    background-color: #23c4f4;
+    color: #fff;
+    font-weight: 500;
+    font-size: 16px;
+    border: 2px solid #23c4f4;
+    transition: all linear .2s;
+    width: 100%;
+    text-align: center;
+    display: block;
+}
+.login_main_frm .btn_submit:hover{
+    background-color: transparent;
+    color: #23c4f4;
+}
+.login_main_frm .form_group span,
+.login_main_frm .form_group a{
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 400;
+    color: #0d0d0d81;
+}
+.register_btn p{
+    font-size: 13px;
+    line-height: 18px;
+    font-weight: 400;
+    color: #0d0d0da9;
+    text-align: right;
+}
+.regis_section{
+    background-image: url(../images/doctors/heart.png);
+    background-size: 50%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.regis_main_frm{
+    background-color: #f1f1f1;
+    padding: 25px;
+    border-radius: 7px;
+    margin-top: 70px!important;
+    margin-bottom: 30px;
+}
+/* nayan css end */
